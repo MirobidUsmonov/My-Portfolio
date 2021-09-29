@@ -1,7 +1,14 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/photo-1518655048521-f130df041f66.jfif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .heading {
     text-align: center;
     font-size: 100px;
-    
 }
 
 .container {
